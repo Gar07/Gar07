@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gar07&label=Profile%20views&color=0e75b6&style=flat" alt="gar07" /> </p>
 
-<p align="left"> <a href="https://x.com/gar2007_me" target="blank"><img src="https://img.shields.io/x/follow/gar2007_me?logo=x&style=for-the-badge" alt="gar2007_me" /></a> </p>
 
 - 🔭 I’m currently working on [Tribe Crypto](https://tribe-beta.biz.id)
 
@@ -34,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gar07&show_icons=true&theme=dark&locale=en&layout=compact" alt="gar07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gar07&show_icons=true&theme=dark&locale=en" alt="gar07" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gar07&theme=dark" alt="gar07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gar07&theme=dark" alt="gar07" /></p>
