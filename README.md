@@ -4,15 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gar07&label=Profile%20views&color=0e75b6&style=flat" alt="gar07" /> </p>
 
 
-- 🔭 I’m currently working on [Tribe Crypto](https://tribe-beta.biz.id)
+- 🔭 I’m currently working on [Axroz](https://axroz.biz.id)
 
-- 🌱 I’m currently learning **C++, C#, Tailwind, React, and Machine Learning**
+- 🌱 I’m currently learning **C++, C#, Javascript, Python, Tailwind, React, and Machine Learning**
 
-- 👯 I’m looking to collaborate on [ZenithAI](https://coming.soon)
+- 👯 I’m looking to collaborate on [ZenixAI](https://coming.soon)
 
-- 👨‍💻 See my portfolio [https://gar.tribe-beta.biz.id](https://gar.tribe-beta.biz.id)
+- 👨‍💻 See my portfolio [https://coming.soon](https://coming.soon)
 
-- 💬 Ask me about **Crypto**
+- 💬 Ask me about **Crypto, AI**
 
 - 📫 Contact me at **gar2007xtech@proton.me**
 
@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/gar2007_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gar2007_me" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gar2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gar2007" height="30" width="40" /></a>
-<a href="https://fb.com/gar2007.gov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gar2007.gov" height="30" width="40" /></a>
+<a href="https://fb.com/gar2007.gov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gar2007.me" height="30" width="40" /></a>
 <a href="https://instagram.com/gar2007.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gar2007.me" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gar2007." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gar2007." height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gar2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gar2007" height="30" width="40" /></a>
