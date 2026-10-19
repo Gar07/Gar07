@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Zerosec](https://zerosecid.com/)
 
-- 👨‍💻 See my portfolio [https://coming.soon](https://coming.soon)
+- 👨‍💻 See my portfolio [https://gar2007.me](https://gar2007.me)
 
 - 💬 Ask me about **Crypto, AI**
 
