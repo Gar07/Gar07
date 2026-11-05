@@ -1,11 +1,7 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
+<!-- ═══════════════ HEADER (self-hosted animated SVG) ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:EC4899&height=230&section=header&text=Gar2007&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Gilbert%20Aldrich%20Rumahorbo&descAlignY=60&descSize=20" alt="Gar07 banner" width="100%" />
-
-<a href="https://github.com/Gar07">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+I%27m+Gar+%7C+Computer+Science+%40+Unimed;Building+autonomous+AI+architectures;Full-stack+systems+that+ship;Hunting+vulnerabilities+%7C+CTF+%7C+OSINT;Hacking+responsibly.+Learning+relentlessly." alt="Typing animation" />
-</a>
+<img src="assets/banner.svg" alt="Gar2007 - Gilbert Aldrich Rumahorbo" width="100%" />
 
 <p>
   <a href="https://github.com/Gar07?tab=followers"><img src="https://img.shields.io/github/followers/Gar07?label=Followers&style=for-the-badge&color=6366f1&logo=github&logoColor=white" alt="Followers" /></a>
@@ -76,24 +72,45 @@ R0FSe2lfbDB2M19Bdm9jNGQwX2p1MWMzKQ==
 <div align="center">
 
 **Languages**<br>
-<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,go,bash,php&theme=dark" alt="Languages" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" alt="Python" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" alt="TypeScript" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" alt="Go" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" alt="Bash" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" alt="PHP" />
+
+<br><br>
 
 **Web, Backend & DevOps**<br>
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,fastapi,tailwind,postgres,docker,threejs&theme=dark" alt="Web stack" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" alt="React" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" alt="Vue" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" alt="FastAPI" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" alt="Tailwind CSS" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" alt="Docker" />
+
+<br><br>
 
 **AI / ML**<br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI stack" /><br>
-<img src="https://img.shields.io/badge/XGBoost-337ab7?style=flat-square" />
-<img src="https://img.shields.io/badge/LightGBM-02a676?style=flat-square" />
-<img src="https://img.shields.io/badge/CatBoost-ffcc00?style=flat-square&logoColor=black&labelColor=black" />
-<img src="https://img.shields.io/badge/SHAP-8b5cf6?style=flat-square" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/llama.cpp-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/vLLM-2563eb?style=flat-square" />
-<img src="https://img.shields.io/badge/LiteLLM-ef4444?style=flat-square" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" alt="OpenCV" /><br>
+<img src="https://img.shields.io/badge/XGBoost-337ab7?style=flat-square" alt="XGBoost" />
+<img src="https://img.shields.io/badge/LightGBM-02a676?style=flat-square" alt="LightGBM" />
+<img src="https://img.shields.io/badge/CatBoost-ffcc00?style=flat-square&labelColor=black" alt="CatBoost" />
+<img src="https://img.shields.io/badge/SHAP-8b5cf6?style=flat-square" alt="SHAP" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/llama.cpp-111827?style=flat-square" alt="llama.cpp" />
+<img src="https://img.shields.io/badge/vLLM-2563eb?style=flat-square" alt="vLLM" />
+<img src="https://img.shields.io/badge/LiteLLM-ef4444?style=flat-square" alt="LiteLLM" />
+
+<br><br>
 
 **Environment**<br>
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,git&theme=dark" alt="Environment" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" alt="Linux" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" alt="Git" />
 
 </div>
 
@@ -128,52 +145,14 @@ R0FSe2lfbDB2M19Bdm9jNGQwX2p1MWMzKQ==
 
 <h2 id="projects">🚀 Featured Projects</h2>
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Gar07/Veripix">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gar07&repo=Veripix&theme=transparent&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA" alt="Veripix" />
-      </a><br>
-      <sub>🖼️ Digital image forensics: manipulation, hidden metadata and steganography analysis.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Gar07/JudolHunter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gar07&repo=JudolHunter&theme=transparent&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA" alt="JudolHunter" />
-      </a><br>
-      <sub>🎰 Proactive detection and crawling of illegal online gambling (judol) SEO spam via metadata and DNS analysis.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Gar07/SODA-BIP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gar07&repo=SODA-BIP&theme=transparent&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA" alt="SODA-BIP" />
-      </a><br>
-      <sub>🌐 3D WebGL visualization and distributed data portal for large-scale analytical observation.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Gar07/vizin">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gar07&repo=vizin&theme=transparent&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA" alt="vizin" />
-      </a><br>
-      <sub>📐 Interactive calculus visualization.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Gar07/DFA-Simulator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gar07&repo=DFA-Simulator&theme=transparent&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA" alt="DFA-Simulator" />
-      </a><br>
-      <sub>🤖 DFA simulator powered by AI.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Gar07/CVD">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gar07&repo=CVD&theme=transparent&hide_border=true&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA" alt="CVD" />
-      </a><br>
-      <sub>🔗 <a href="https://cvd.gar2007.me/">Live demo → cvd.gar2007.me</a></sub>
-    </td>
-  </tr>
-</table>
-</div>
+| Project | What it does | Stack | |
+| :--- | :--- | :--- | :---: |
+| 🖼️ **[Veripix](https://github.com/Gar07/Veripix)** | Digital image forensics: manipulation, hidden metadata and steganography analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | [![Stars](https://img.shields.io/github/stars/Gar07/Veripix?style=flat-square&logo=github&color=6366f1)](https://github.com/Gar07/Veripix) |
+| 🎰 **[JudolHunter](https://github.com/Gar07/JudolHunter)** | Proactive detection and crawling of illegal online gambling (judol) SEO spam via metadata and DNS analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Recon](https://img.shields.io/badge/Recon-f59e0b?style=flat-square) | [![Stars](https://img.shields.io/github/stars/Gar07/JudolHunter?style=flat-square&logo=github&color=6366f1)](https://github.com/Gar07/JudolHunter) |
+| 🌐 **[SODA-BIP](https://github.com/Gar07/SODA-BIP)** | 3D WebGL visualization and distributed data portal for large-scale analytical observation. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | [![Stars](https://img.shields.io/github/stars/Gar07/SODA-BIP?style=flat-square&logo=github&color=6366f1)](https://github.com/Gar07/SODA-BIP) |
+| 📐 **[vizin](https://github.com/Gar07/vizin)** | Interactive calculus visualization. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [![Stars](https://img.shields.io/github/stars/Gar07/vizin?style=flat-square&logo=github&color=6366f1)](https://github.com/Gar07/vizin) |
+| 🤖 **[DFA-Simulator](https://github.com/Gar07/DFA-Simulator)** | DFA simulator powered by AI. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [![Stars](https://img.shields.io/github/stars/Gar07/DFA-Simulator?style=flat-square&logo=github&color=6366f1)](https://github.com/Gar07/DFA-Simulator) |
+| 🔗 **[CVD](https://github.com/Gar07/CVD)** | [Live demo: cvd.gar2007.me](https://cvd.gar2007.me/) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![Stars](https://img.shields.io/github/stars/Gar07/CVD?style=flat-square&logo=github&color=6366f1)](https://github.com/Gar07/CVD) |
 
 <details>
 <summary><b>🔬 Research & internal systems</b></summary>
@@ -190,22 +169,22 @@ R0FSe2lfbDB2M19Bdm9jNGQwX2p1MWMzKQ==
 
 <h2 id="stats">📊 Live Telemetry</h2>
 
+<!-- These cards are generated by .github/workflows/profile-summary-cards.yml and served from this repo,
+     so they do not depend on third-party servers. Run the workflow once before they appear. -->
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gar07&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="98%" alt="Profile details" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gar07&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&ring_color=EC4899" height="180" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gar07&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=CBD5E1&langs_count=8" height="180" alt="Top languages" />
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" alt="Repos per language" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Most commit language" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Gar07&theme=transparent&hide_border=true&ring=EC4899&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=CBD5E1&sideNums=CBD5E1&dates=94A3B8" alt="GitHub streak" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gar07&bg_color=0D1117&color=38BDF8&line=6366F1&point=EC4899&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity graph" />
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="GitHub stats" />
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" alt="Productive time" />
 
 </div>
 
@@ -233,6 +212,8 @@ R0FSe2lfbDB2M19Bdm9jNGQwX2p1MWMzKQ==
 
 <sub>💬 Ask me about <b>AI, Cyber Security, CTF, OSINT & full-stack engineering</b> · ⚡ Fun fact: I love the sky</sub>
 
-</div>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:6366F1,100:0EA5E9&height=120&section=footer" width="100%" alt="footer" />
+<img src="assets/footer.svg" alt="Thanks for stopping by" width="100%" />
+
+</div>
